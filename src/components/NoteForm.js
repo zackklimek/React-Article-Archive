@@ -8,7 +8,7 @@ const NoteForm = (props) => {
 
 	const onArchiveClick = (event) => {
 		const isoString = new Date().toISOString();
-		props.addNoteHandler(
+		props.addEntry(
 			titleRef.current.value,
 			"",
 			noteRef.current.value,

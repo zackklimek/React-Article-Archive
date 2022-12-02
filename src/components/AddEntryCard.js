@@ -24,7 +24,7 @@ const AddEntryCard = (props) => {
 	const onCloseHandler = (event) => {
 		setSelected(0);
 	}
-	
+
 	return (
 		<Container className="mb-3 d-flex-block">
 			<Card className="py-3">
@@ -55,7 +55,7 @@ const AddEntryCard = (props) => {
 					<ArticleForm addEntry={props.addEntry}
 					onClose={onCloseHandler} />
 				)}
-				{selected === 2 && <NoteForm addNoteHandler={props.addArticleHandler}
+				{selected === 2 && <NoteForm addEntry={props.addEntry}
 				onClose={onCloseHandler}/>}
 			</Card>
 		</Container>
