@@ -8,4 +8,4 @@ Uses react-bootstrap, setup as follows: https://react-bootstrap.github.io/gettin
 
 After cloning this repository, run `npm install` to install the project's dependencies. To start, run `npm start` in the project's directory.
 
-<img width="1115" alt="Screenshot 2022-12-01 at 8 57 35 PM" src="https://user-images.githubusercontent.com/47435851/205197434-8f1cf21e-3c43-418c-99b0-590f73f1fa0c.png">
+<img width="1115" alt="Screenshot 2022-12-01 at 9 30 07 PM" src="https://user-images.githubusercontent.com/47435851/205201398-eb2dc2bd-b985-407c-afb0-9bfb3f70af7a.png">
