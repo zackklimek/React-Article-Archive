@@ -1,0 +1,14 @@
+.entryContainer {
+	justify-content: center;
+}
+
+.entryTypeCard {
+	padding-right: 1rem;
+	padding-left: 1rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	max-height: 25rem;
+}
+.entryTypeCard:hover {
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}

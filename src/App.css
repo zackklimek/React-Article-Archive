@@ -1,0 +1,49 @@
+.App {
+	text-align: center;
+}
+
+#footer {
+	box-sizing: border-box;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: baseline;
+	padding: 1em;
+	margin-top: 2em;
+	padding-bottom: 1em;
+	background-color: rgb(173, 210, 202);
+	color: rgb(26, 102, 105);
+}
+
+#header {
+	box-sizing: border-box;
+	width: 100%;
+	display: flex;
+	justify-content: left;
+	align-items: baseline;
+	padding: 1em;
+	margin-bottom: 2em;
+	background-color: rgb(173, 210, 202);
+	color: white;
+}
+
+#header-text {
+	color: rgb(26, 102, 105);
+	text-decoration: none;
+}
+
+#header-text:hover {
+	color: black;
+	transform: scale(1.02, 1.07);
+}
+
+.linkText{
+	color: rgb(26, 102, 105);
+	text-align: left;
+}
+
+.linkText:hover{
+	color: rgb(19, 80, 82);
+	text-align: left;
+	font-weight: bold;
+}
